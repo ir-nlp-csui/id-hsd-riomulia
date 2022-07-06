@@ -1,13 +1,16 @@
 # The Dataset for Hate Speech Detection in Indonesian
 
 ## Data Format
-The dataset is a two columns data of: label - tweet, consist of 713 tweets in Indonesian. <br>
-The label is Non_HS or HS. Non_HS for "non-hate-speech" tweet and HS for "hate-speech" tweet. <br>
+The dataset is a two columns data of: label - tweet.     
+The label is Non_HS or HS: 
+* Non_HS for "non-hate-speech" tweet    
+* HS for "hate-speech" tweet.
 
 ## Dataset Size
-- Number of Non_HS tweets: 453<br>
-- Number of HS tweets: 260 <br>
-Since this dataset is unbalanced, you might have to do over-sampling/down-sampling in order to create a balanced dataset. <br>
+It consists of 713 tweets in Indonesian
+- Number of Non_HS tweets: 453  
+- Number of HS tweets: 260.  
+Since this dataset is unbalanced, you might have to do over-sampling/down-sampling in order to create a balanced dataset. 
 
 ## References
 Ika Alfina, Rio Mulia, Mohamad Ivan Fanany, and Yudo Ekanata, [<i>"Hate Speech Detection in Indonesian Language: A Dataset and Preliminary Study
